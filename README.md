@@ -4,9 +4,10 @@
 [![Build
 Status](https://travis-ci.org/data-steve/supportr.svg?branch=master)](https://travis-ci.org/data-steve/supportr)
 
-
+<p>
 <a href="https://img.shields.io/badge/Version-0.0.1-orange.svg"><img src="https://img.shields.io/badge/Version-0.0.1-orange.svg" alt="Version"/></a>
 </p>
+
 **supportr** is functionality to help R-devs embed functions in their own packages to get support from their users programmatically
 
 Installation
