@@ -1,12 +1,14 @@
 Package: supportr
-Title: What the Package Does (one line)
+Title: Functionality for R-devs to Gather Various Forms of Support 
 Version: 0.0.1
-Authors@R: c(person("FIRST", "LAST", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
-Maintainer: FIRST LAST <steven.troy.simpson@gmail.com>
-Description: What the package does (one paragraph)
+Authors@R: c(person("Steve", "Simpson", email = "steven.troy.simpson@gmail.com", role = c("aut", "cre")))
+Maintainer: Steve Simpson <steven.troy.simpson@gmail.com>
+Description: Functionality for R-devs to gather various forms of useR support directly from R console. 
 Depends: R (>= 3.2.4)
 Suggests: testthat
 Date: 2016-04-30
 License: GPL-2
 LazyData: TRUE
 Roxygen: list(wrap = FALSE)
+URL: https://github.com/data-steve/supportr
+BugReports: https://github.com/data-steve/supportr/issues
